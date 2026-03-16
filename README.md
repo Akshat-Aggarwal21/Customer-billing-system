@@ -32,6 +32,4 @@ Customer details such as name, account number, address, mobile number, payment, 
 
 
 
-Search account
 
-Exit
